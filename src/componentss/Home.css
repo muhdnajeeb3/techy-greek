@@ -1,0 +1,23 @@
+.row{
+    align-content: center;
+}
+.cardbody{
+    text-align: center;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    margin-top: 15rem !important;
+    
+}
+.btn1{
+    margin: 1rem;
+    
+}
+.link{
+    text-decoration: none;
+    color: azure;
+}
+.img1{
+    height: 12rem;
+    margin: 0.1rem;
+}
